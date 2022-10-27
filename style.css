@@ -1,0 +1,14 @@
+.carousel .carousel-item {
+    height: 671px;
+    background-image: url(./images\ \(3\)\ \(3\).png);
+    background-repeat: repeat;
+}
+body {
+    background-image: url(./images\ \(3\)\ \(3\).png);
+    background-size: 100%;
+    opacity: 0.9;
+}
+*{
+    margin-top: 0;
+    padding: 0%;
+}
